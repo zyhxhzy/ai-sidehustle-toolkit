@@ -1,0 +1,48 @@
+{
+  "repo_name": "ai-sidehustle-toolkit",
+  "description": "190 个用 AI 多赚一份钱的数字产品包开源索引 / A curated open index of 190 AI side-hustle digital kits (pay-by-scan, self-download).",
+  "homepage": "https://ai-tools-zh.app.workbuddy.host/",
+  "topics": [
+    "ai",
+    "side-hustle",
+    "passive-income",
+    "digital-products",
+    "ai-tools",
+    "make-money-online",
+    "chatgpt",
+    "resource-index",
+    "awesome-list",
+    "chinese"
+  ],
+  "license": "CC-BY-4.0",
+  "generated_at": "2026-11-03T15:17:56.693673+00:00",
+  "category_count": 5,
+  "product_count": 190,
+  "categories": [
+    {
+      "name": "出海接单与跨境",
+      "file": "category-cross-border.md",
+      "count": 19
+    },
+    {
+      "name": "AI副业与接单",
+      "file": "category-ai-sidehustle.md",
+      "count": 94
+    },
+    {
+      "name": "自媒体与短视频",
+      "file": "category-social-video.md",
+      "count": 54
+    },
+    {
+      "name": "知识付费与做课",
+      "file": "category-knowledge-course.md",
+      "count": 11
+    },
+    {
+      "name": "电商带货与私域",
+      "file": "category-ecom-private.md",
+      "count": 12
+    }
+  ]
+}
