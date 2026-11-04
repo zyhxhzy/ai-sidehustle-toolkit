@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# 凭据 / 敏感草稿（若误放入仓库根）
+credentials.json
+outbox/
+
+# 日志
+*.log
+
+# 编辑器
+.idea/
+.vscode/
